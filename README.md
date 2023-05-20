@@ -1,2 +1,3 @@
 # CareForSociety
-A project based on #NeighborhoodHacks @MLHacks!!!
+A project based on Society Management System.
+#NeighborhoodHacks @MLHacks!!!
